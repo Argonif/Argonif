@@ -1,8 +1,12 @@
 <h1>Hi</h1>
 - 👋 I’m @Argonif
+- <br>
 - 👀 I’m interested in Programing and Computer Sience
+- <br>
 - 🌱 I’m currently learning Web Development
+- <br>
 - 💞️ I’m looking to collaborate on Enyting i can
+- <br>
 - 📫 How to reach me : by Talking to me
 
 <!---
